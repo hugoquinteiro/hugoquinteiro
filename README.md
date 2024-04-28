@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hugo Ferrira Quinteiro 👋
+Formação em Administração de Banco de Dados, possuo um perfil generalista, agregando funções como analista de sistemas com uma visão ampla em desenvolvimento SQL e PL/SQL.
+Possuo 16 anos de experiência no ramo de Automação Comercial, onde ao longo desse tempo, exerci funções de analista de suporte, consultor de implantação, analista de teste e administrador de banco de dados. Com a rotina de trabalho adquiri conhecimentos em legislação tributária e escrituração fiscal.
+Atualmente desenvolvo as funções de analista de sistema e BI gerenciando e desenvolvendo no ERP Sankhya e Qlik Sense
 
 <!--
 **hugoquinteiro/hugoquinteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
