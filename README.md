@@ -34,7 +34,7 @@ Estou sempre em busca de automatizar processos então na rotina de trabalho já 
 
 #### [Projetos](#projetos):
 
-- Uploader, um receptor de mídia digital, desenvolvido com o objeto que facilitar a recepção de arquivos em vídeo, fotos, etc. Permiter ao usuário se identificar pelo seu "@" de uma Mídia Social e enviar seus arquivos de forma fácil e rápida. Já do ambiente de Admin, temos a recepção dos arquivos, organizando em pastas de cada "@" e dados estatísticos de cada envio.
+- <span style="font-size: larger;">**Uploader**</span>, um receptor de mídia digital, desenvolvido com o objeto que facilitar a recepção de arquivos em vídeo, fotos, etc. Permiter ao usuário se identificar pelo seu "@" de uma Mídia Social e enviar seus arquivos de forma fácil e rápida. Já do ambiente de Admin, temos a recepção dos arquivos, organizando em pastas de cada "@" e dados estatísticos de cada envio.
 (Stack: HTML, Javascrit, Google Firebase, Electron)
 
 - Sellout, app desenvolvido para atender uma demanda de registro de Sellout que promovem vendas, efetua o registro de vendas diárias por promotor por loja. Permite ao Admin, o controle de metas/objetivos de vendas. 
