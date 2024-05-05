@@ -37,22 +37,22 @@ Estou sempre em busca de automatizar processos então na rotina de trabalho já 
 - <span style="font-size: larger;">**Uploader**</span>, um receptor de mídia digital, desenvolvido com o objeto que facilitar a recepção de arquivos em vídeo, fotos, etc. Permiter ao usuário se identificar pelo seu "@" de uma Mídia Social e enviar seus arquivos de forma fácil e rápida. Já do ambiente de Admin, temos a recepção dos arquivos, organizando em pastas de cada "@" e dados estatísticos de cada envio.
 (Stack: HTML, Javascrit, Google Firebase, Electron)
 
-- Sellout, app desenvolvido para atender uma demanda de registro de Sellout que promovem vendas, efetua o registro de vendas diárias por promotor por loja. Permite ao Admin, o controle de metas/objetivos de vendas. 
+- <span style="font-size: larger;">**Sellout**</span>, app desenvolvido para atender uma demanda de registro de Sellout que promovem vendas, efetua o registro de vendas diárias por promotor por loja. Permite ao Admin, o controle de metas/objetivos de vendas. 
 Além de permitir informar também o registro da falta de estoque e/ou a falta do cadastro de produtos na loja determinada. (Integrado com o Sistemas Sankhya)
 (Stack: Node, Vue, PostgreSQL)
 
-- Pré Venda
+- <span style="font-size: larger;">**Pré Venda**</span>
 Sistema desenvolvido pensando na agilidade e facilidade do atendimento ao cliente. Pré Venda e orçamento que funcionam com qualquer checkout, homologado com bematech. Funciona em celulares, tablets, e computadores. Entre em contato para saber mais
 (Stack: Node, HTML, PostgreSQL)
 
-- Fluxo Financeiro, voltado para o controle pessoal de gastos financeiros ou pequenos negócios, permite o controle de bancos, fornecedores categorizados em 2 niveis para analises gráfica.
+- <span style="font-size: larger;">**Fluxo Financeiro**</span>, voltado para o controle pessoal de gastos financeiros ou pequenos negócios, permite o controle de bancos, fornecedores categorizados em 2 niveis para analises gráfica.
 Permite ainda a conciliação bancaria de contas homologadas.
 (Stack: Node, Vue, PostgreSQL)
 
-- Raspagem Mercado Livre, permite a leitura e armazenamento de dados do Mercado Livre como Valor, Estoque, Vendedor e comentários, necessário apenas o link do anuncio.
+- <span style="font-size: larger;">**Raspagem Mercado Livre**</span>, permite a leitura e armazenamento de dados do Mercado Livre como Valor, Estoque, Vendedor e comentários, necessário apenas o link do anuncio.
 (Stack: Node, MariaDB)
 
-- Leitor de PDF, personalização especifica para o sistema Sankhya, mas com possibilidade de adaptações, efetua a leitura de um PDF de pedido, gravando os dados diretamente na API do Sankhya.
+- <span style="font-size: larger;">**Leitor de PDF**</span>, personalização especifica para o sistema Sankhya, mas com possibilidade de adaptações, efetua a leitura de um PDF de pedido, gravando os dados diretamente na API do Sankhya.
 (Stack: Node, Electron, Integração API Sankhya)
 
 <!--
